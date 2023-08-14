@@ -27,4 +27,6 @@ From the training data we have the content of each File ID and the label informi
 **Confusion matrix on CounterVector vectorized inputs**
 ![CV-Confusion_Matrix](https://github.com/Git-of-arnab/NLP-Classification/assets/138995898/8d438451-ba99-4687-a1f1-d1a3308e51ef)
 
+***AUC_ROC Score for TF-IDF = 92.88***
 
+***AUC_ROC Score for CounterVector = 98.64***
